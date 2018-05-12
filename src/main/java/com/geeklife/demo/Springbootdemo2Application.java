@@ -17,6 +17,6 @@ public class Springbootdemo2Application implements CommandLineRunner{
 	
 	@Override
     public void run(String... args) {
-    	System.out.println("Hello World, Allan.");
+    	System.out.println("Hello World, Allan");
     }
 }
